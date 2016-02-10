@@ -1,0 +1,1 @@
+Debugging code can be tedious to write but the payoffs afterwards are often great. Sharing our hard-earned debugging code will both benefit us when the code is acutely needed, and also motivate us to "go the extra mile" when considering a useful debugging technique.
